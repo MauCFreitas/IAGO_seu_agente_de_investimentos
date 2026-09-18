@@ -1,0 +1,11 @@
+data,descricao,categoria,valor,tipo 
+2026-11-03,Aporte CDB Liquidez Diária,renda\_fixa,1000.00,saida 
+2026-11-05,Rendimento FIIs (Proventos),renda\_variavel,125.50,entrada 
+2026-11-10,Aplicação Tesouro Selic 2029,renda\_fixa,500.00,saida 
+2026-11-15,Resgate Parcial CDB,renda\_fixa,300.00,entrada 
+2026-11-18,Compra Ações Bradesco (BBDC4),renda\_variavel,450.00,saida 
+2026-11-22,Dividendo Ações,renda\_variavel,35.20,entrada 
+2026-11-25,Aporte LCI - Imobiliário,renda\_fixa,1500.00,saida 
+2026-11-28,Aporte Tesouro IPCA+,renda\_fixa,250.00,saida 
+2026-12-02,Rendimento Caderneta de Poupança,renda\_fixa,18.40,entrada 
+2026-12-05,Aporte LCA - Agronegócio,renda\_fixa,1000.00,saida
