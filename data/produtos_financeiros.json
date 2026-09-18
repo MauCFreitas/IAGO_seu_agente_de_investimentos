@@ -1,0 +1,91 @@
+[
+    {
+    "nome": "Poupança",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "0,5% ao mês; ou 70% da SELIC",
+    "aporte_minimo": 0.0,
+    "indicado_para": "curto prazo"
+    },
+    {
+    "nome": "Tesouro Direto",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "Prefixada",
+    "aporte_minimo": 30.0,
+    "indicado_para": "iniciantes ou metas de longo prazo"
+    },
+    {
+    "nome": "CDB",
+    "categoria": "renda_fixa",
+    "risco": "baixo a moderado",
+    "rentabilidade": "Prefixada",
+    "aporte_minimo": 1.0,
+    "indicado_para": "metas de medio/longo prazo"        
+    },
+    {
+    "nome": "LCI/LCA",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "Prefixada isenta de IR",
+    "aporte_minimo": 50.0,
+    "indicado_para": "meta de longo prazo"        
+    },
+    {
+    "nome": "CRI/CRA",
+    "categoria": "renda_fixa",
+    "risco": "medio",
+    "rentabilidade": "Prefixada isenta de IR",
+    "aporte_minimo": 1000.0,
+    "indicado_para": "investidores experientes"
+    },
+    {
+    "nome": "Debêntures",
+    "categoria": "renda_fixa",
+    "risco": "credito da empresa",
+    "rentabilidade": "Superior a renda fixa, isenta de IR",
+    "aporte_minimo": 1000.0,
+    "indicado_para": "investidores experientes"
+    },
+    {
+    "nome": "Renda Fixa",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "flutuante",
+    "aporte_minimo": 30.0,
+    "indicado_para": "investidores geridos profissionalmente"
+    },
+    {
+    "nome": "Fundos Imobiliários",
+    "categoria": "renda_variável",
+    "risco": "médio",
+    "rentabilidade": "dividendos mensais",
+    "aporte_minimo": 100.0,
+    "indicado_para": "investidores em busca de renda passiva mensal"
+    },
+    {
+    "nome": "Ações",
+    "categoria": "renda_variável",
+    "risco": "alto",
+    "rentabilidade": "valorização dos papeis em bolsa",
+    "aporte_minimo": 10.0,
+    "indicado_para": "clientes em busca de crescimento patrimonial"
+    },
+    {
+    "nome": "ETFs",
+    "categoria": "renda_variável ou fixa",
+    "risco": "médio/alto",
+    "rentabilidade": "Ibovespa e S&P",
+    "aporte_minimo": 100.0,
+    "indicado_para": "investidores geridos profissionalmente"
+    },
+    {
+    "nome": "Fundos Multimercado",
+    "categoria": "Renda Híbrida",
+    "risco": "médio/alto",
+    "rentabilidade": "ações, moedas, commodities",
+    "aporte_minimo": 100.0,
+    "indicado_para": "investidores que buscam menores riscos de investimento"
+    }
+
+]
